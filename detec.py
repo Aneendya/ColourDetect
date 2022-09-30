@@ -1,4 +1,5 @@
 #This is OpenCV project
+#THIS PROGRAM DETECTS COLOUR IN A GIVEN IMAGE FILE
 import numpy as np
 import cv2
 import argparse
